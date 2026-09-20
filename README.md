@@ -18,3 +18,4 @@ KnifeDamage.server.lua goes in ServerStorage.Knife.KnifeDamage. Not actually in 
 Biggest pain building this was doors. Some are just one simple part and those animate fine, but some are actually built from multiple pieces, a frame plus a separate door, and trying to swing the whole thing broke stuff, so those get skipped now. Also had old leftover scripts from earlier attempts still running and fighting the new ones, had to track those down and turn them off. Spawn points got mixed up a few times too when more than one person joined. Also the cabin system didnt work at first but I arranged spawn1, spawn2 etc.
 
 No license picked yet, ask me if you want to use any of this.
+<img width="1002" height="529" alt="Skärmavbild 2026-09-20 kl  01 34 42" src="https://github.com/user-attachments/assets/bce56f2c-0da0-4e7e-9ae0-c504660a8c9f" />
